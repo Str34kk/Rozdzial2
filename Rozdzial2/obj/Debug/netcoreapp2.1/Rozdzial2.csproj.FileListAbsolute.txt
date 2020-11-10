@@ -13,10 +13,8 @@ C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\bin\Debug\netcoreapp2.1\Rozdzia
 C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzial2.csprojAssemblyReference.cache
 C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzial2.AssemblyInfoInputs.cache
 C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzial2.AssemblyInfo.cs
-C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzial2.csproj.CoreCompileInputs.cache
 C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzial2.RazorAssemblyInfo.cache
 C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzial2.RazorAssemblyInfo.cs
-C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzial2.TagHelpers.input.cache
 C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzial2.TagHelpers.output.cache
 C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzial2.RazorCoreGenerate.cache
@@ -39,3 +37,5 @@ C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzia
 C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzial2.pdb
 C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzial2.genruntimeconfig.cache
 C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzial2.csproj.CopyComplete
+C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\Rozdzial2.csproj.CoreCompileInputs.cache
+C:\Users\Konrad\source\repos\Rozdzial2\Rozdzial2\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
