@@ -14,6 +14,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System.Reflection;
 using Microsoft.OpenApi.Models;
+using AutoMapper;
 
 namespace Rozdzial2
 {
@@ -55,7 +56,7 @@ namespace Rozdzial2
                 });
             });
 
-
+            services.AddAutoMapper();
 
         }
 
